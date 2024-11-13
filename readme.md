@@ -12,12 +12,12 @@ the target website. You must make your program generate a QR code that takes som
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
 
-![QR Code](/../<main>//home/elawa/projects/improved-qr-docker-2024/images/Screenshot_2024-11-12_233122.png?raw=true)
+![QR Code](/../<main>//home/elawa/projects/improved-qr-docker-2024/image/Screenshot_2024-11-12_233122.png?raw=true)
 
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
 
-![Logging](/../<main>//home/elawa/projects/improved-qr-docker-2024/images/Screenshot_2024-11-12_233143.png?raw=true)
+![Logging](/../<main>//home/elawa/projects/improved-qr-docker-2024/image/Screenshot_2024-11-12_233143.png?raw=true)
 
 ## Lesson Video
 
