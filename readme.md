@@ -12,7 +12,7 @@ the target website. You must make your program generate a QR code that takes som
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
 
-![alt text](<Screenshot 2024-11-12 233143.png>)
+![alt text](<c:\Users\elawa\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-12 233122.png>)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
 ![alt text](<Screenshot 2024-11-12 233143.png>)
